@@ -10,5 +10,4 @@ def main(list1):
     a=[]
     while list1:
         a+=[list1.pop()]
-    
     return b+a
